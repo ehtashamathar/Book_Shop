@@ -44,7 +44,10 @@ In Book shop project an admin can Add, Delete, Edit, Search a record.
 
 ## Screenshots<a name = "screenshots"></a>
 
-<img src ="Screenshots/
+<img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/1.jpg">
+<img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/2.jpg">
+<img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/3.jpg">
+<img src ="https://github.com/ehtashamathar/Book_Shop/blob/main/Screenshot/4.jpg">
 
 
 ## ✍️ Authors <a name = "authors"></a>
