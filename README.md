@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c039b824474525.56334ce736de9.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://img.freepik.com/free-vector/hand-drawn-flat-design-bookstore-logo_23-2149350212.jpg?w=740&t=st=1682493380~exp=1682493980~hmac=3bf877c2cde88e0951e5c7fdebeb7401f9ea189ece05d59f9a063eb0a2e1a0fa" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Project Title</h3>
